@@ -19,6 +19,3 @@ input.onButtonPressed(Button.B, function () {
     radio.sendString("B")
 })
 radio.setGroup(1)
-basic.forever(function () {
-	
-})
